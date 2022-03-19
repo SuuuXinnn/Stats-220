@@ -5,7 +5,7 @@
 
 ### *I will use this for demonstrating various STATS 220 related teaching things.*
 
-- Feel free to follow me [suuuxinnn](https://suuuxinnn.github.io/stats220/) (My GitHub page) 😆
+- Feel free to follow me [suuuxinnn](https://github.com/SuuuXinnn) (My GitHub page) 😆
 - Feel free to watch this repository
 - You can even ⭐ the repo if you want 
 
