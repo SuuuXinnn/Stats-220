@@ -1,6 +1,6 @@
 # Stats 220 
 
-## Hi!  I'm Suxin 🐍👧  since I was born in the year of the snake
+## Hi!  I'm Suxin  🐍👧  since I was born in the year of the snake
 ### A stage 3 student but doing stage 2 course this semester😂
 
 ### *I will use this for demonstrating various STATS 220 related teaching things.*
