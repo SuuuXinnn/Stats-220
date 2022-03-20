@@ -47,10 +47,10 @@ result <- c(a_row, b_row) %>% image_append(stack = TRUE) %>% image_scale(600)
 image_write(result, "my_meme.png")
 ```
 
- - *Marvel is my favourite movies, and my favorite characters are Iron Man and Spider Man. So I decided to use Iron Man and Spider Man elements to create my meme.*
+ * *Marvel is my favourite movies, and my favorite characters are Iron Man and Spider Man. So I decided to use Iron Man and Spider Man elements to create my meme.*
 
- - *In my meme, I have added text to the original images to make it easier for those who may not know Iron Man and Spider Man to distinguish between them. I used the characters' own colours for the text background (in my opinion), which is acceptable although there is a slight colour difference.*
+ * *In my meme, I have added text to the original images to make it easier for those who may not know Iron Man and Spider Man to distinguish between them. I used the characters' own colours for the text background (in my opinion), which is acceptable although there is a slight colour difference.*
  
- - *I used white color for the text itself, which stands out against the deep color background and catches the eye. I set the size of the text background to be the same as the image so that the image is not larger than the text or the text is larger than the image. It also makes the whole image (meme) look more balanced.*
+ * *I used white color for the text itself, which stands out against the deep color background and catches the eye. I set the size of the text background to be the same as the image so that the image is not larger than the text or the text is larger than the image. It also makes the whole image (meme) look more balanced.*
 
 
